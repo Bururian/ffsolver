@@ -1,0 +1,15 @@
+This is a simple brute-force solver for Scholar Bear's Math Game in Final
+Fantasy: The 4 Heroes of Light. I wrote it a while back for personal use, but
+figured I might as well put it out there in case anyone's interested.
+
+To use it, enter the four numbers provided by the game into standard input. The
+program will print out the sequence of operations needed to achieve the optimal
+score, or tell you if there's no solution. To terminate the program, input a
+zero. Sorry it's a little clunky to use, but I didn't originally intend it for
+public distribution, and this method is convenient for using the program while
+playing the game.
+
+On a side note, you can reliably achieve high scores by just passing on problems
+over and over. The game seems to generate enough unsolvable problems that the
+bonuses for passing unsolvable problems outweigh the penalties for skipping
+solvable ones.
